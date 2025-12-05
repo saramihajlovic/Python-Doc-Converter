@@ -1,0 +1,15 @@
+# User uploads
+uploads/
+converted/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
